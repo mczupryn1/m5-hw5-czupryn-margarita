@@ -8,12 +8,13 @@ body {
     background: lightcoral;
     height: 5px;
         background-color: lightcoral;
-        text-align: center; 
+        text-align: center;
+        font-style: italic;
         padding-top: 50px;
         margin: 0;  
 }
+
 .margin {
-background: lightcoral;
 height: 50px;
     background-color: lightcoral;
     text-align: left; 
@@ -34,6 +35,7 @@ img {
 
 article {
     float: left;
+    position: relative;
     max-width: 400px;
     background-color: faf0e6;
     padding-top: 10px;
